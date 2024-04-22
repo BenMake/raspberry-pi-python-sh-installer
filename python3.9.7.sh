@@ -92,4 +92,4 @@ install_python () {
     echo "Have Fun!"
 }
 
-install_python 3.9.7
+install_python 3.10
